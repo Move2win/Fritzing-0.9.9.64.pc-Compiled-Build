@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg id="svg2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" sodipodi:docname="APEM-PT65-303_Rotary_coded_hexadecimal_switch_schematic.svg" height=".81250in" width=".82001in" version="1.2" y="0in" x="0in" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" viewBox="0 0 59.040998 58.499983" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview id="namedview53" fit-margin-left="0" inkscape:zoom="11.596585" borderopacity="1" inkscape:current-layer="schematic" inkscape:cx="36.900617" inkscape:cy="36.562494" inkscape:window-maximized="1" showgrid="true" fit-margin-right="0" bordercolor="#666666" inkscape:window-x="-8" guidetolerance="10" objecttolerance="10" inkscape:window-y="-8" fit-margin-bottom="0" inkscape:window-width="1920" inkscape:pageopacity="0" inkscape:pageshadow="2" pagecolor="#ffffff" gridtolerance="10" inkscape:snap-object-midpoints="true" inkscape:window-height="1017" fit-margin-top="0">
+  <inkscape:grid id="grid5569" originy="29.24999" originx="0.73000006" spacingy="0.71999998" spacingx="0.72000023" units="in" type="xygrid"/>
+ </sodipodi:namedview>
+ <g id="schematic" inkscape:label="schematic" inkscape:groupmode="layer">
+  <rect id="rect7" height="57.6" width="28.8" stroke="#000000" stroke-linecap="round" y=".44999" x="15.12" stroke-width="0.9" fill="#ffffff"/>
+  <line id="connector4pin" stroke-width=".75" y2="29.25" y1="29.25" stroke="#787878" stroke-linecap="round" x2="15.12" x1="0.72" fill="none"/>
+  <rect id="connector4terminal" height="1.44" width="1.44" y="28.53" x="-4.7684e-9" fill="none"/>
+  <text id="text13" font-size="4.375" y="28.20009" x="7.2312999" font-family="DroidSans" fill="#555555">C</text>
+  <line id="connector0pin" stroke-width=".75" y2="7.65" y1="7.65" stroke="#555555" stroke-linecap="round" x2="43.92" x1="58.321" fill="none"/>
+  <rect id="connector0terminal" height="1.44" width="1.44" y="6.93" x="57.601" fill="none"/>
+  <text id="text19" font-size="4.375" y="6.6004968" x="50.431999" font-family="DroidSans" fill="#555555">1</text>
+  <line id="connector3pin" stroke-width=".75" y2="50.85" y1="50.85" stroke="#555555" stroke-linecap="round" x2="43.92" x1="58.321" fill="none"/>
+  <rect id="connector3terminal" height="1.44" width="1.44" y="50.13" x="57.601" fill="none"/>
+  <text id="text25" font-size="4.375" y="49.79969" x="50.431999" font-family="DroidSans" fill="#555555">8</text>
+  <line id="line27" stroke-width="0.5" y2="7.65" y1="7.65" stroke="#000000" stroke-linecap="round" x2="43.92" x1="42.12" fill="none"/>
+  <line id="line29" stroke-width="0.5" y2="4.05" y1="7.65" stroke="#000000" stroke-linecap="round" x2="42.12" x1="29.52" fill="none"/>
+  <ellipse id="circle31" rx="0.36" ry="0.36" stroke="#000000" cy="7.65" cx="29.52" stroke-width="0.5" fill="none"/>
+  <ellipse id="circle33" rx="0.36" ry="0.36" stroke="#000000" cy="7.65" cx="43.92" stroke-width="0.9" fill="none"/>
+  <line id="line35" stroke-width="0.5" y2="50.85" y1="50.85" stroke="#000000" stroke-linecap="round" x2="43.92" x1="42.12" fill="none"/>
+  <line id="line37" stroke-width="0.5" y2="47.25" y1="50.85" stroke="#000000" stroke-linecap="round" x2="42.12" x1="29.52" fill="none"/>
+  <ellipse id="circle39" rx="0.36" ry="0.36" stroke="#000000" cy="50.85" cx="29.52" stroke-width="0.5" fill="none"/>
+  <ellipse id="circle41" rx="0.36" ry="0.36" stroke="#000000" cy="50.85" cx="43.92" stroke-width="0.9" fill="none"/>
+  <line id="line43" stroke-width="0.5" y2="7.65" y1="7.65" stroke="#000000" stroke-linecap="round" x2="22.32" x1="29.52" fill="none"/>
+  <line id="line45" stroke-width="0.5" y2="29.25" y1="7.65" stroke="#000000" stroke-linecap="round" x2="22.32" x1="22.32" fill="none"/>
+  <line id="line47" stroke-width="0.5" y2="50.85" y1="29.25" stroke="#000000" stroke-linecap="round" x2="22.32" x1="22.32" fill="none"/>
+  <line id="line49" stroke-width="0.5" y2="50.85" y1="50.85" stroke="#000000" stroke-linecap="round" x2="29.52" x1="22.32" fill="none"/>
+  <line id="line51" stroke-width="0.5" y2="29.25" y1="29.25" stroke="#000000" stroke-linecap="round" x2="17.28" x1="22.32" fill="none"/>
+  <line id="line4203" stroke-width="0.5" x1="29.52" x2="42.12" stroke="#000000" stroke-linecap="round" y1="22.05" y2="18.45" fill="none"/>
+  <ellipse id="circle4205" rx="0.36" ry="0.36" stroke="#000000" cy="22.05" cx="29.52" stroke-width="0.5" fill="none"/>
+  <line id="line4207" stroke-width="0.5" x1="29.52" x2="22.32" stroke="#000000" stroke-linecap="round" y1="22.05" y2="22.05" fill="none"/>
+  <line id="line4209" stroke-width="0.5" y2="32.85" y1="36.45" stroke="#000000" stroke-linecap="round" x2="42.12" x1="29.52" fill="none"/>
+  <ellipse id="circle4211" rx="0.36" ry="0.36" stroke="#000000" cy="36.45" cx="29.52" stroke-width="0.5" fill="none"/>
+  <line id="line4213" stroke-width="0.5" y2="36.45" y1="36.45" stroke="#000000" stroke-linecap="round" x2="22.32" x1="29.52" fill="none"/>
+  <line id="connector1pin" stroke-width=".75" y2="22.05" x2="43.92" stroke="#555555" stroke-linecap="round" y1="22.05" x1="58.321" fill="none"/>
+  <rect id="connector1terminal" height="1.44" width="1.44" y="21.33" x="57.601" fill="none"/>
+  <text id="text4219" font-size="4.375" y="20.987614" x="50.431999" font-family="DroidSans" fill="#555555">2</text>
+  <line id="line4221" stroke-width="0.5" x1="42.12" x2="43.92" stroke="#000000" stroke-linecap="round" y1="22.05" y2="22.05" fill="none"/>
+  <ellipse id="circle4223" rx="0.36" ry="0.36" stroke="#000000" cy="22.05" cx="43.92" stroke-width="0.9" fill="none"/>
+  <line id="connector2pin" stroke-width=".75" y2="36.45" y1="36.45" stroke="#555555" stroke-linecap="round" x2="43.92" x1="58.321" fill="none"/>
+  <rect id="connector2terminal" height="1.44" width="1.44" y="35.73" x="57.601" fill="none"/>
+  <text id="text4229" font-size="4.375" y="35.374729" x="50.431999" font-family="DroidSans" fill="#555555">4</text>
+  <line id="line4231" stroke-width="0.5" y2="36.45" y1="36.45" stroke="#000000" stroke-linecap="round" x2="43.92" x1="42.12" fill="none"/>
+  <ellipse id="circle4233" rx="0.36" ry="0.36" stroke="#000000" cy="36.45" cx="43.92" stroke-width="0.9" fill="none"/>
+ </g>
+</svg>

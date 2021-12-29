@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.6.3" icon="Dagu.png">
+    <title>Dagu</title>
+    <instances>
+        <instance moduleIdRef="Dagu_DGServo_9g_End_view" modelIndex="" >
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+       <instance moduleIdRef="Dagu_DGServo_9g_Pan_and_tilt" modelIndex="" >
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_Top_view" modelIndex="" >
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_PCB_mounting_holes" modelIndex="" >
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_header_male" modelIndex="" >
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_header_connector_female" modelIndex="" >
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+
+      <instance moduleIdRef="JST-B3P-VH" modelIndex="" path="JST-B3P-VH.fzp">
+        <views>
+          <iconView layer="icon">
+            <geometry z="-1" x="-1" y="-1"></geometry>
+          </iconView>
+        </views>
+      </instance>
+  
+      <instance moduleIdRef="JST-VHR-3N" modelIndex="" path="JST-VHR-3N.fzp">
+        <views>
+          <iconView layer="icon">
+            <geometry z="-1" x="-1" y="-1"></geometry>
+          </iconView>
+        </views>
+      </instance>
+  
+
+   </instances>
+</module>
